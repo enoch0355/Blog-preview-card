@@ -56,8 +56,6 @@ h2:hover {
 
 .cont-2 {
   display: flex;
-  flex-direction: row;
-  height: 100%;
   align-items: center;
   margin-top: 24px;
 }
